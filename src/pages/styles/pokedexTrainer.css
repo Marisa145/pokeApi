@@ -1,0 +1,42 @@
+.pokedex__body{
+    position: relative;
+    width: 80%;
+    margin: auto;
+    
+}
+.pokedex__tittle{
+    margin-top:25px ;
+    margin-bottom: 25px;
+}
+.name_trainer{
+    
+    color: #DD1A1A;
+}
+.pokedex__data{
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+    width: 100%;
+    margin-bottom: 25px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.pokedex__input{
+    width: 250px;
+    height: 40px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15);
+    
+    
+}
+.pokedex__button{
+    height: 40px;
+    color: white;
+    background-color: #DD1A1A;
+}
+.pokedex__list{
+    cursor: pointer;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15);
+}
+
