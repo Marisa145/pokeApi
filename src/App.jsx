@@ -5,7 +5,7 @@ import './App.css'
 import ProtectedRoutes from './assets/components/ProtectedRoutes'
 
 import Home from './pages/Home'
-import Pokedex from './pages/pokedex'
+import Pokedex from './pages/Pokedex'
 import PokedexInfo from './pages/PokedexInfo'
 
 
